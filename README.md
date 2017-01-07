@@ -29,4 +29,4 @@ For other chipsets some files need modification including the following
 
 ## Additional startup script is added, which may be needed ##
 
-Add wireless_setup.sh to the system startup scripts (eg: /etc/init.d/ and link it with "ln -s /etc/init.d/wireless_setup.sh /etc/rc5/S99wireless_setup.sh" )
+Add wireless_setup.sh to the system startup scripts (eg: /etc/init.d/wireless_setup.sh and link it with "ln -s /etc/init.d/wireless_setup.sh /etc/rc5/S99wireless_setup.sh" )
